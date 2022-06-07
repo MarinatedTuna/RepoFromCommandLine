@@ -33,3 +33,9 @@ git commit
 git status
 git push
 ```
+
+Here is a list of things to learn on Github
+
+1. Learn how to code popular C++ data structures
+  - Learn how to create a Hashmap
+    - Learn and practice the emplace command for map
