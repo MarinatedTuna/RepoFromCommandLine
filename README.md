@@ -27,9 +27,9 @@ Here are some other formats that are used in README files:
 
 Here are basic git commands that I use:
 
-'''
+```
 git add
 git commit
 git status
 git push
-'''
+```
