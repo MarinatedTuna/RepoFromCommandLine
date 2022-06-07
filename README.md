@@ -39,3 +39,5 @@ Here is a list of things to learn on Github
     - [ ] Learn how to code popular C++ data structures 
       - [x] Learn how to create a Hashmap
         - [ ] Learn and practice the emplace command for map
+
+**This text was added from Android**
