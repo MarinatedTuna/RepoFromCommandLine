@@ -20,3 +20,7 @@ Here are some other formats that are used in README files:
 <sub>
   This text is a subscript
  </sub>
+
+<sup>
+  This text is a superscript
+  </sup>
